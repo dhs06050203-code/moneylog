@@ -1,0 +1,20 @@
+{
+  "name": "머니로그 - 가계부 & 재산관리",
+  "short_name": "머니로그",
+  "description": "아이폰에서 오프라인으로 안전하게 관리하는 개인 가계부 및 재산관리 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2F2F7",
+  "theme_color": "#007AFF",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
